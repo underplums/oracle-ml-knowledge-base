@@ -1,0 +1,1 @@
+This repository contains a structured knowledge base for machine learning and statistics, designed specifically for use with Obsidian. Notes are interconnected, question-driven, and optimized for active recall and interview preparation.
